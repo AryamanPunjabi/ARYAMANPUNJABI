@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryamanpunjabi" alt="aryamanpunjabi" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@aryamanpunjabi3670](https://medium.com/@aryamanpunjabi3670)
+- 📝 I regularly write articles on [https://medium.com/@aryamanpunjabi3670](https://medium.com/@aryamanpunjabi3670) and https://aryaman07.hashnode.dev/
 
 - 📫 How to reach me **aryamantpunjabi@gmail.com**
 
