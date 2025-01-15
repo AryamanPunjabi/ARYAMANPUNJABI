@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aryamanpunjabi3670](https://medium.com/@aryamanpunjabi3670) and https://aryaman07.hashnode.dev/
 
-- 📫 How to reach me **aryamantpunjabi@gmail.com**
+- 📫 How to reach me **aryamanpunjabi83@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
